@@ -57,6 +57,6 @@ The project extracts geometric and topological features from the drawings and pe
 ## Files
 
 - `report.pdf` — full assignment report
-- `analysis_[k].ipynb` — feature extraction and analysis notebook
+- `section[k]_code.ipynb` — feature extraction and analysis notebook
 - `images/` — dataset of hand-drawn sketches
-- `features.csv` — extracted feature dataset
+- `40457802_features.csv` — extracted feature dataset
